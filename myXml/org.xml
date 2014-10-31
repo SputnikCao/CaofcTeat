@@ -1,0 +1,1641 @@
+<?xml version="1.0"?>
+<ORG>
+<View Name="市财政局" Id="6">
+	<Group Name="办公室(信息管理科)" Id="7">
+		<User Name="孙廷鹏" Id="9970" />
+		<User Name="彭研江" Id="9971" />
+		<User Name="陈焱" Id="9972" />
+		<User Name="李嘉丽" Id="9973" />
+		<User Name="李健(大)" Id="9974" />
+		<User Name="蔡晓雪" Id="9975" />
+		<User Name="黄晴" Id="9976" />
+		<User Name="龙茜" Id="9977" />
+		<User Name="张冉" Id="9978" />
+		<User Name="张婉婷" Id="9979" />
+		<User Name="赵泽龙" Id="9980" />
+		<User Name="刘宁" Id="9981" />
+	</Group>
+	<Group Name="市财政监督检查局" Id="9">
+		<User Name="张雷" Id="10071" />
+		<User Name="张雄" Id="10072" />
+		<User Name="马志彬" Id="10073" />
+		<User Name="杨阳" Id="10074" />
+		<User Name="董立科" Id="10075" />
+		<User Name="徐娜" Id="10076" />
+		<User Name="黄梅" Id="10077" />
+	</Group>
+	<Group Name="市财税资源办公室" Id="10">
+		<User Name="曾玉超" Id="10086" />
+		<User Name="杨硕" Id="10087" />
+		<User Name="文琳" Id="10088" />
+		<User Name="张继群" Id="10089" />
+	</Group>
+	<Group Name="政府采购监管科" Id="11">
+		<User Name="向毅川" Id="10063" />
+		<User Name="吴霄硕" Id="10064" />
+		<User Name="汪霞" Id="10065" />
+		<User Name="黄旭梅" Id="10066" />
+	</Group>
+	<Group Name="住房公积金管理中心" Id="13">
+		<User Name="王成" Id="10124" />
+		<User Name="罗庆" Id="10125" />
+		<User Name="陈军" Id="10126" />
+		<User Name="张静" Id="10127" />
+		<User Name="叶莉" Id="10128" />
+		<User Name="周文杰" Id="10129" />
+		<User Name="王妍" Id="10130" />
+		<User Name="殷国琼" Id="10131" />
+		<User Name="吴革英" Id="10132" />
+		<User Name="吕琼英" Id="10133" />
+		<User Name="刘国祥" Id="10134" />
+		<User Name="杨思聪" Id="10135" />
+		<User Name="余乔颖" Id="10136" />
+		<User Name="吴健桃" Id="10137" />
+		<User Name="杨聪" Id="10138" />
+		<User Name="夏友军" Id="10139" />
+		<User Name="罗敏" Id="10140" />
+		<User Name="张建" Id="10141" />
+		<User Name="胡晓玲" Id="10142" />
+		<User Name="杨黎琳" Id="10143" />
+		<User Name="吴玫" Id="10144" />
+		<User Name="闵敏" Id="10145" />
+		<User Name="周丹" Id="10146" />
+		<User Name="文妤暄" Id="10147" />
+		<User Name="李雅洁" Id="10148" />
+		<User Name="曾宏燕" Id="10149" />
+		<User Name="文蓉" Id="10150" />
+		<User Name="汪学琴" Id="10151" />
+		<User Name="苏鹏廷" Id="10152" />
+		<User Name="廖燕" Id="10153" />
+		<User Name="张翠平" Id="10154" />
+		<User Name="吴芳" Id="10155" />
+		<User Name="袁小程" Id="10156" />
+		<User Name="周瑨宇" Id="10157" />
+		<User Name="廖利" Id="10158" />
+		<User Name="奚颖" Id="10159" />
+		<User Name="唐磊" Id="10160" />
+		<User Name="代艳" Id="10161" />
+		<User Name="陈绮雯" Id="10162" />
+		<User Name="李华" Id="10163" />
+		<User Name="张娱" Id="10164" />
+		<User Name="范敏" Id="10165" />
+		<User Name="石冬梅" Id="10166" />
+		<User Name="马琳" Id="10167" />
+		<User Name="冯志萍" Id="10168" />
+		<User Name="刘渝晶" Id="10169" />
+		<User Name="张新雨" Id="10170" />
+		<User Name="毛枫溢" Id="10171" />
+		<User Name="顾茜" Id="10172" />
+		<User Name="代世平" Id="10173" />
+		<User Name="王其斌" Id="10174" />
+		<User Name="刘文军" Id="10175" />
+		<User Name="张亚玲" Id="10176" />
+		<User Name="周明露" Id="10177" />
+		<User Name="冯艳梅" Id="10178" />
+		<User Name="万永凤" Id="10179" />
+		<User Name="余姝" Id="10180" />
+		<User Name="李玲" Id="10181" />
+		<User Name="杨兴明" Id="10182" />
+		<User Name="胡俊梅" Id="10183" />
+		<User Name="刘恒" Id="10184" />
+		<User Name="杨蓉" Id="10185" />
+	</Group>
+	<Group Name="国库科(支付中心)" Id="14">
+		<User Name="王蓉" Id="10001" />
+		<User Name="范素均" Id="10002" />
+		<User Name="杨海波" Id="10003" />
+		<User Name="吴红彬" Id="10004" />
+		<User Name="张雄军" Id="10005" />
+		<User Name="陈小敏" Id="10006" />
+		<User Name="那显俊" Id="10007" />
+		<User Name="龚晋" Id="10008" />
+		<User Name="李珂" Id="10009" />
+		<User Name="汪金全" Id="10010" />
+		<User Name="邹洪涛" Id="10011" />
+		<User Name="彭可嘉" Id="10012" />
+		<User Name="赵昕" Id="10013" />
+		<User Name="彭念乔" Id="10014" />
+		<User Name="程莹" Id="10015" />
+	</Group>
+	<Group Name="财税法规会计科" Id="15">
+		<User Name="代幼冰" Id="9986" />
+		<User Name="牟永平" Id="9987" />
+		<User Name="邓秀容" Id="9988" />
+		<User Name="张纬宇" Id="9989" />
+	</Group>
+	<Group Name="监察室" Id="16">
+		<User Name="王进" Id="10083" />
+		<User Name="魏靖娟" Id="10084" />
+		<User Name="文雪燕" Id="10085" />
+	</Group>
+	<Group Name="教科文科" Id="17">
+		<User Name="刘耘加" Id="10023" />
+		<User Name="李琳" Id="10024" />
+		<User Name="刘心波" Id="10025" />
+		<User Name="江燕" Id="10026" />
+		<User Name="邓媛媛" Id="10027" />
+	</Group>
+	<Group Name="外事外债金融科" Id="18">
+		<User Name="朱军" Id="10059" />
+		<User Name="陆冰" Id="10060" />
+		<User Name="李斌" Id="10061" />
+		<User Name="文静" Id="10062" />
+	</Group>
+	<Group Name="经济建设科" Id="19">
+		<User Name="王友军" Id="10028" />
+		<User Name="周琳" Id="10029" />
+		<User Name="廖雪松" Id="10030" />
+		<User Name="蒙娅琼" Id="10031" />
+		<User Name="周岚" Id="10032" />
+		<User Name="许文萍" Id="10033" />
+	</Group>
+	<Group Name="局领导" Id="20">
+		<User Name="广兵" Id="9959" />
+		<User Name="江一帆" Id="9960" />
+		<User Name="杨冰" Id="9961" />
+		<User Name="魏立先" Id="9962" />
+		<User Name="金雪冰" Id="9963" />
+		<User Name="王丹梅" Id="9964" />
+		<User Name="王树江" Id="9965" />
+		<User Name="欧志媛" Id="9966" />
+		<User Name="钟丽华" Id="9967" />
+		<User Name="舒杨" Id="9968" />
+		<User Name="王俊忠" Id="9969" />
+	</Group>
+	<Group Name="农发办" Id="21">
+		<User Name="李忠良" Id="10067" />
+		<User Name="刘亚利" Id="10068" />
+		<User Name="王学浩" Id="10069" />
+		<User Name="徐利亚" Id="10070" />
+	</Group>
+	<Group Name="农业科" Id="22">
+		<User Name="邓勇" Id="10034" />
+		<User Name="郑晓桦" Id="10035" />
+		<User Name="杨琳" Id="10036" />
+		<User Name="刘航" Id="10037" />
+		<User Name="周园" Id="10038" />
+		<User Name="甯倩" Id="10039" />
+	</Group>
+	<Group Name="投资评审中心" Id="24">
+		<User Name="杨劲松" Id="10090" />
+		<User Name="李凌锋" Id="10091" />
+		<User Name="叶秀文" Id="10092" />
+		<User Name="唐淑兰" Id="10093" />
+		<User Name="伍华英" Id="10094" />
+		<User Name="饶开燕" Id="10095" />
+		<User Name="鲁明" Id="10096" />
+		<User Name="林黎" Id="10097" />
+		<User Name="江廷聪" Id="10098" />
+		<User Name="邓德富" Id="10099" />
+		<User Name="张宇翔" Id="10100" />
+		<User Name="谭荣森" Id="10101" />
+		<User Name="陈天全" Id="10102" />
+		<User Name="陈琳" Id="10103" />
+		<User Name="戴建军" Id="10104" />
+		<User Name="徐孝俊" Id="10105" />
+		<User Name="朱晓容" Id="10106" />
+		<User Name="叶杨" Id="10107" />
+		<User Name="朱倩" Id="10108" />
+		<User Name="李明慧" Id="10109" />
+		<User Name="陈红" Id="10110" />
+		<User Name="温晓玲" Id="10111" />
+		<User Name="邓敏智" Id="10112" />
+		<User Name="曾桂芳" Id="10113" />
+		<User Name="刘义平" Id="10114" />
+		<User Name="胡春芳" Id="10115" />
+		<User Name="郝莹" Id="10116" />
+		<User Name="陈乔" Id="10117" />
+		<User Name="徐川" Id="10118" />
+		<User Name="赵彬涵" Id="10119" />
+		<User Name="杨晓明" Id="10120" />
+		<User Name="孙蜀容" Id="10121" />
+		<User Name="胡遥" Id="10122" />
+		<User Name="陈晓平" Id="10123" />
+	</Group>
+	<Group Name="企业科" Id="25">
+		<User Name="张琤" Id="10046" />
+		<User Name="黄山梅" Id="10047" />
+		<User Name="梁自勤" Id="10048" />
+		<User Name="西超杰" Id="10049" />
+	</Group>
+	<Group Name="人事教育科(党委办)" Id="26">
+		<User Name="唐代祥" Id="10078" />
+		<User Name="朱土发" Id="10079" />
+		<User Name="陈华" Id="10080" />
+		<User Name="谢云锋" Id="10081" />
+		<User Name="熊妍" Id="10082" />
+	</Group>
+	<Group Name="社保科" Id="27">
+		<User Name="刘文霞" Id="11116" />
+		<User Name="李健(小)" Id="11117" />
+		<User Name="罗晓玲" Id="11118" />
+		<User Name="王媛" Id="11119" />
+		<User Name="何跃军" Id="11120" />
+		<User Name="黄莉" Id="11121" />
+	</Group>
+	<Group Name="投资管理科" Id="30">
+		<User Name="宋瑛" Id="10050" />
+		<User Name="李威巍" Id="10051" />
+		<User Name="杜晓勤" Id="10052" />
+		<User Name="尹华" Id="10053" />
+		<User Name="沈云超" Id="10054" />
+		<User Name="易海波" Id="10055" />
+		<User Name="赵晶" Id="10056" />
+		<User Name="吴丹倩" Id="10057" />
+		<User Name="丁立" Id="10058" />
+	</Group>
+	<Group Name="行政政法科(罚没物质管理中心)" Id="32">
+		<User Name="李智洪" Id="10016" />
+		<User Name="任扬" Id="10017" />
+		<User Name="曾旭玉" Id="10018" />
+		<User Name="赵黎" Id="10019" />
+		<User Name="李晓玲" Id="10020" />
+		<User Name="张建丽" Id="10021" />
+		<User Name="梅艳" Id="10022" />
+	</Group>
+	<Group Name="预算科(债务科、编审中心)" Id="33">
+		<User Name="吴峻松" Id="9990" />
+		<User Name="王河川" Id="9991" />
+		<User Name="李永斌" Id="9992" />
+		<User Name="罗知" Id="9993" />
+		<User Name="张杨" Id="9994" />
+		<User Name="郭冬" Id="9995" />
+		<User Name="孔波" Id="9996" />
+		<User Name="封凌" Id="9997" />
+		<User Name="付丽" Id="9998" />
+		<User Name="蒲喜" Id="9999" />
+		<User Name="郭黎" Id="10000" />
+	</Group>
+	<Group Name="综合科" Id="36">
+		<User Name="荣蓉" Id="9982" />
+		<User Name="刘莉" Id="9983" />
+		<User Name="曾芳" Id="9984" />
+		<User Name="黄欣" Id="9985" />
+	</Group>
+	<Group Name="票据管理中心" Id="589">
+		<User Name="杨晓明" Id="10120" />
+		<User Name="孙蜀容" Id="10121" />
+		<User Name="胡遥" Id="10122" />
+		<User Name="陈晓平" Id="10123" />
+	</Group>
+</View>
+<View Name="区县财政局" Id="82">
+	<Group Name="市中区" Id="197">
+		<Group Name="市中区局领导" Id="422">
+			<User Name="先进春" Id="10188" />
+			<User Name="谢雨冰" Id="10189" />
+			<User Name="宋华茂" Id="10190" />
+			<User Name="周建东" Id="10191" />
+			<User Name="陈涛" Id="10192" />
+		</Group>
+		<Group Name="市中区办公室" Id="423">
+			<User Name="杨翃赟" Id="10193" />
+			<User Name="易小成" Id="10194" />
+			<User Name="刘军" Id="10195" />
+			<User Name="王燕" Id="10196" />
+			<User Name="宋娜" Id="10197" />
+			<User Name="杨金平" Id="10198" />
+			<User Name="赵彬" Id="10199" />
+			<User Name="税斌" Id="10200" />
+			<User Name="瑞伟" Id="10201" />
+			<User Name="闵凤娟" Id="10202" />
+		</Group>
+		<Group Name="市中区国库股" Id="424">
+			<User Name="张建英" Id="10203" />
+			<User Name="金剑波" Id="10204" />
+			<User Name="李伯铸" Id="10205" />
+			<User Name="吴珊" Id="10206" />
+			<User Name="毛丽容" Id="10207" />
+		</Group>
+		<Group Name="市中区票据管理中心" Id="425">
+			<User Name="伍红东" Id="10208" />
+			<User Name="舒幼林" Id="10209" />
+		</Group>
+		<Group Name="市中区预算股" Id="426">
+			<User Name="吕莉" Id="10210" />
+			<User Name="宋超" Id="10211" />
+			<User Name="邓静惠" Id="10212" />
+			<User Name="张元利" Id="10213" />
+		</Group>
+		<Group Name="市中区行政政法股" Id="427">
+			<User Name="杨莉" Id="10214" />
+			<User Name="宋爱萍" Id="10215" />
+			<User Name="黄坭冈" Id="10216" />
+			<User Name="陈帆" Id="10217" />
+		</Group>
+		<Group Name="市中区教科文股" Id="428">
+			<User Name="谢丽萍" Id="10218" />
+			<User Name="赵薇" Id="10219" />
+			<User Name="何玲" Id="10220" />
+		</Group>
+		<Group Name="市中区社保股" Id="429">
+			<User Name="先瑜" Id="10221" />
+			<User Name="代贤全" Id="10222" />
+			<User Name="刘林" Id="10223" />
+		</Group>
+		<Group Name="市中区评审中心" Id="430">
+			<User Name="张志军" Id="10224" />
+			<User Name="詹立明" Id="10225" />
+			<User Name="张晴" Id="10226" />
+			<User Name="贺天龙" Id="10227" />
+		</Group>
+		<Group Name="市中区国资办" Id="431">
+			<User Name="幸占平" Id="10228" />
+			<User Name="韩奕" Id="10229" />
+			<User Name="毛波" Id="10230" />
+			<User Name="王永强" Id="10231" />
+			<User Name="范潇予" Id="10232" />
+			<User Name="付晓琴" Id="10233" />
+		</Group>
+		<Group Name="市中区农财股" Id="432">
+			<User Name="李维冰" Id="10234" />
+			<User Name="赵娜" Id="10235" />
+			<User Name="陈俊" Id="10236" />
+			<User Name="程极" Id="10237" />
+		</Group>
+		<Group Name="市中区经济建设股" Id="433">
+			<User Name="魏雪" Id="10238" />
+			<User Name="何晓志" Id="10239" />
+			<User Name="彭莉" Id="10240" />
+		</Group>
+		<Group Name="市中区会计股" Id="434">
+			<User Name="王艳" Id="10241" />
+			<User Name="张劲松" Id="10242" />
+			<User Name="虞梅" Id="10243" />
+		</Group>
+		<Group Name="市中区国库支付中心" Id="435">
+			<User Name="唐荣华" Id="10244" />
+			<User Name="王竑" Id="10245" />
+			<User Name="唐茜" Id="10246" />
+			<User Name="帅淑平" Id="10247" />
+			<User Name="曹晓琼" Id="10248" />
+			<User Name="代远强" Id="10249" />
+			<User Name="邹平" Id="10250" />
+			<User Name="刘彩丽" Id="10251" />
+			<User Name="邓力" Id="10252" />
+			<User Name="郭雁" Id="10253" />
+			<User Name="李晓平" Id="10254" />
+			<User Name="罗文霞" Id="10255" />
+			<User Name="周亚林" Id="10256" />
+		</Group>
+		<Group Name="市中区财监局" Id="436">
+			<User Name="胡春凤" Id="10257" />
+			<User Name="张喜林" Id="10258" />
+			<User Name="彭妍" Id="10259" />
+		</Group>
+	</Group>
+	<Group Name="五通桥区" Id="198">
+		<Group Name="五通桥局领导" Id="437">
+			<User Name="田铁钢" Id="10260" />
+			<User Name="赵志强" Id="10261" />
+			<User Name="杨玉林" Id="10262" />
+			<User Name="陈齐" Id="10263" />
+			<User Name="袁卉" Id="10264" />
+			<User Name="段家波" Id="10265" />
+			<User Name="易志强" Id="10266" />
+		</Group>
+		<Group Name="五通桥办公室" Id="438">
+			<User Name="杜颖" Id="10267" />
+			<User Name="黄永刚" Id="10268" />
+			<User Name="杨维洋" Id="10269" />
+			<User Name="李茂" Id="10270" />
+			<User Name="杨梅" Id="10271" />
+			<User Name="潘元松" Id="10272" />
+		</Group>
+		<Group Name="五通桥预算股" Id="439">
+			<User Name="何强" Id="10273" />
+			<User Name="张蕾" Id="10274" />
+			<User Name="蒙春燕" Id="10275" />
+			<User Name="曹蕾" Id="10276" />
+		</Group>
+		<Group Name="五通桥国库股" Id="440">
+			<User Name="罗斌" Id="10277" />
+			<User Name="杨蓉" Id="10278" />
+			<User Name="杨健" Id="10279" />
+			<User Name="吴志惠" Id="10280" />
+		</Group>
+		<Group Name="五通桥农业股" Id="441">
+			<User Name="姚彬" Id="10281" />
+			<User Name="辜晓尧" Id="10282" />
+			<User Name="蒋志林" Id="10283" />
+		</Group>
+		<Group Name="五通桥行政政法股" Id="442">
+			<User Name="刘玉珍" Id="10284" />
+			<User Name="陈玫" Id="10285" />
+			<User Name="吴雪梅" Id="10286" />
+		</Group>
+		<Group Name="五通桥经建股" Id="443">
+			<User Name="彭军" Id="10287" />
+			<User Name="兰晓华" Id="10288" />
+			<User Name="李佳" Id="10289" />
+		</Group>
+		<Group Name="五通桥教科文股" Id="444">
+			<User Name="李玲" Id="10290" />
+			<User Name="魏宏义" Id="10291" />
+			<User Name="曾惠" Id="10292" />
+		</Group>
+		<Group Name="五通桥社保股" Id="445">
+			<User Name="沈小波" Id="10293" />
+			<User Name="程微杰" Id="10294" />
+			<User Name="彭建琼" Id="10295" />
+		</Group>
+		<Group Name="五通桥综合股" Id="446">
+			<User Name="代艳萍" Id="10296" />
+			<User Name="吴俊英" Id="10297" />
+		</Group>
+		<Group Name="五通桥基础支出股" Id="447">
+			<User Name="刘伟" Id="10298" />
+			<User Name="龚莉" Id="10299" />
+			<User Name="夏光" Id="10300" />
+			<User Name="赵芯苹" Id="10301" />
+		</Group>
+		<Group Name="五通桥财监局(会计股)" Id="448">
+			<User Name="林真容" Id="10302" />
+			<User Name="税志英" Id="10303" />
+			<User Name="刘文清" Id="10304" />
+			<User Name="周影" Id="10305" />
+		</Group>
+		<Group Name="五通桥国资办办公室(区资产经营有限公司)" Id="449">
+			<User Name="粟启华" Id="10306" />
+			<User Name="杨晓飞" Id="10307" />
+			<User Name="梁珂" Id="10308" />
+			<User Name="封静" Id="10309" />
+		</Group>
+		<Group Name="五通桥采购监督管理股" Id="450">
+			<User Name="宋继俊" Id="10310" />
+		</Group>
+		<Group Name="五通桥财政投资评审中心" Id="451">
+			<User Name="朱阳" Id="10311" />
+			<User Name="伍思洁" Id="10312" />
+			<User Name="袁琴芳" Id="10313" />
+		</Group>
+		<Group Name="五通桥财政国库支付中心" Id="452">
+			<User Name="荣正全" Id="10314" />
+			<User Name="周大容" Id="10315" />
+			<User Name="谢鹏" Id="10316" />
+			<User Name="曾媛媛" Id="10317" />
+			<User Name="刘蔷" Id="10318" />
+		</Group>
+	</Group>
+	<Group Name="沙湾区" Id="199">
+		<Group Name="沙湾局领导" Id="453">
+			<User Name="杨其武" Id="10319" />
+			<User Name="张琴" Id="10320" />
+			<User Name="朱金辉" Id="10321" />
+			<User Name="刘益德" Id="10322" />
+		</Group>
+		<Group Name="沙湾办公室" Id="454">
+			<User Name="李文斓" Id="10323" />
+			<User Name="胡庆晖" Id="10324" />
+			<User Name="刘舫" Id="10325" />
+			<User Name="陈加勇" Id="10326" />
+			<User Name="冯寿新" Id="10327" />
+			<User Name="王聪" Id="10328" />
+			<User Name="李婉玉" Id="10329" />
+		</Group>
+		<Group Name="沙湾预案股" Id="455">
+			<User Name="卢利英" Id="10330" />
+			<User Name="赵小燕" Id="10331" />
+			<User Name="罗均林" Id="10332" />
+			<User Name="张帆" Id="10333" />
+		</Group>
+		<Group Name="沙湾国库股" Id="456">
+			<User Name="江涛" Id="10334" />
+			<User Name="张妮" Id="10335" />
+			<User Name="黄雪" Id="10336" />
+			<User Name="万明亚" Id="10337" />
+			<User Name="李玥" Id="10338" />
+		</Group>
+		<Group Name="沙湾行财股" Id="457">
+			<User Name="吴畏" Id="10339" />
+			<User Name="罗文涛" Id="10340" />
+			<User Name="王莉" Id="10341" />
+		</Group>
+		<Group Name="沙湾社保股" Id="458">
+			<User Name="张志义" Id="10342" />
+			<User Name="刘勤" Id="10343" />
+		</Group>
+		<Group Name="沙湾经建股" Id="459">
+			<User Name="刘碧辉" Id="10344" />
+			<User Name="徐华" Id="10345" />
+			<User Name="朱菊英" Id="10346" />
+			<User Name="李永琼" Id="10347" />
+		</Group>
+		<Group Name="沙湾农财股" Id="460">
+			<User Name="张晓琴" Id="10348" />
+			<User Name="王昕" Id="10349" />
+			<User Name="王海燕" Id="10350" />
+		</Group>
+		<Group Name="沙湾综合股" Id="461">
+			<User Name="李健全" Id="10351" />
+			<User Name="潘茂" Id="10352" />
+		</Group>
+		<Group Name="沙湾农综办" Id="462">
+			<User Name="赵敏" Id="10353" />
+			<User Name="张纪彬" Id="10354" />
+		</Group>
+		<Group Name="沙湾评审中心" Id="463">
+			<User Name="邓晓华" Id="10357" />
+			<User Name="魏晓松" Id="10358" />
+			<User Name="管明康" Id="10359" />
+			<User Name="章尹" Id="10360" />
+		</Group>
+		<Group Name="沙湾国资股" Id="464">
+			<User Name="曾丽" Id="10355" />
+			<User Name="陈玲羽" Id="10356" />
+		</Group>
+		<Group Name="沙湾会计股" Id="465">
+			<User Name="王勇" Id="10361" />
+			<User Name="谢瑛" Id="10362" />
+			<User Name="林群英" Id="10363" />
+		</Group>
+		<Group Name="沙湾财监股" Id="466">
+			<User Name="程尧" Id="10364" />
+			<User Name="周晓燕" Id="10365" />
+		</Group>
+	</Group>
+	<Group Name="金口河区" Id="200">
+		<Group Name="金口河局领导" Id="467">
+			<User Name="费治洪" Id="10366" />
+			<User Name="赵志" Id="10367" />
+			<User Name="王天君" Id="10368" />
+			<User Name="熊仕洪" Id="10369" />
+			<User Name="李贵祥" Id="10370" />
+			<User Name="张梦珍" Id="10371" />
+			<User Name="张翠兰" Id="10372" />
+		</Group>
+		<Group Name="金口河办公室" Id="468">
+			<User Name="陈军" Id="10373" />
+			<User Name="廖方琼" Id="10374" />
+		</Group>
+		<Group Name="金口河预算股（行政政法股）" Id="469">
+			<User Name="何军" Id="10375" />
+			<User Name="伍芳" Id="10376" />
+		</Group>
+		<Group Name="金口河社保股" Id="471">
+			<User Name="兰燕" Id="10379" />
+			<User Name="周建强" Id="10380" />
+		</Group>
+		<Group Name="金口河国库股（综合股、票管中心）" Id="472">
+			<User Name="徐泽林" Id="10381" />
+			<User Name="丁丽华" Id="10382" />
+		</Group>
+		<Group Name="金口河教科文股（投资股、金融股）" Id="473">
+			<User Name="廖正林" Id="10383" />
+			<User Name="杨玉梅" Id="10384" />
+		</Group>
+		<Group Name="金口河监察股（会计股）" Id="474">
+			<User Name="张梦珍" Id="10385" />
+			<User Name="黎国军" Id="10386" />
+		</Group>
+		<Group Name="金口河国库集中支付中心" Id="475">
+			<User Name="杨丽霞" Id="10387" />
+			<User Name="黎国军" Id="10388" />
+		</Group>
+		<Group Name="金口河预算编审中心" Id="476">
+			<User Name="钱雪梅" Id="10389" />
+		</Group>
+		<Group Name="金口河经建股" Id="588">
+			<User Name="韩建军" Id="10377" />
+			<User Name="童瑛" Id="10378" />
+		</Group>
+	</Group>
+	<Group Name="峨眉山市" Id="201">
+		<Group Name="峨眉局领导" Id="477">
+			<User Name="张国大" Id="10390" />
+			<User Name="张萍" Id="10391" />
+			<User Name="万翔" Id="10392" />
+			<User Name="罗晓春" Id="10393" />
+			<User Name="杨忠毅" Id="10394" />
+			<User Name="苟勇平" Id="10395" />
+		</Group>
+		<Group Name="峨眉办公室" Id="478">
+			<User Name="刘健" Id="10396" />
+			<User Name="王桂兰" Id="10397" />
+			<User Name="杨彪" Id="10398" />
+			<User Name="王敏" Id="10399" />
+			<User Name="何万帆" Id="10400" />
+			<User Name="王梨" Id="10401" />
+			<User Name="蒋芹" Id="10402" />
+		</Group>
+		<Group Name="峨眉预算股" Id="479">
+			<User Name="何成香" Id="10403" />
+			<User Name="符松梅" Id="10404" />
+			<User Name="王丽琼" Id="10405" />
+			<User Name="杨春秀" Id="10406" />
+			<User Name="廖伽俐" Id="10407" />
+			<User Name="万弘" Id="10408" />
+		</Group>
+		<Group Name="峨眉国库股" Id="480">
+			<User Name="黄勇" Id="10409" />
+			<User Name="刘木坤" Id="10410" />
+			<User Name="刘雷" Id="10411" />
+			<User Name="余志娟" Id="10412" />
+			<User Name="黄建容" Id="10413" />
+		</Group>
+		<Group Name="峨眉企业股" Id="481">
+			<User Name="余廷俊" Id="10414" />
+			<User Name="辛晓霞" Id="10415" />
+			<User Name="邓继伟" Id="10416" />
+			<User Name="王丽" Id="10417" />
+			<User Name="陈鑫" Id="10418" />
+			<User Name="宋杨" Id="10419" />
+		</Group>
+		<Group Name="峨眉教科文股" Id="482">
+			<User Name="王海庆" Id="10420" />
+			<User Name="刘慧" Id="10421" />
+			<User Name="王丽" Id="10422" />
+		</Group>
+		<Group Name="峨眉行政政法股" Id="483">
+			<User Name="李珂" Id="10423" />
+			<User Name="雷秀明" Id="10424" />
+			<User Name="邓德先" Id="10425" />
+		</Group>
+		<Group Name="峨眉综合股" Id="484">
+			<User Name="万玉华" Id="10426" />
+			<User Name="陈婧" Id="10427" />
+			<User Name="王勇" Id="10428" />
+		</Group>
+		<Group Name="峨眉农业股" Id="485">
+			<User Name="杨炜" Id="10429" />
+			<User Name="许辉" Id="10430" />
+			<User Name="万春生" Id="10431" />
+		</Group>
+		<Group Name="峨眉社保股" Id="486">
+			<User Name="黄炳秋" Id="10432" />
+			<User Name="杨丽君" Id="10433" />
+			<User Name="薛咏梅" Id="10434" />
+		</Group>
+		<Group Name="峨眉税源股" Id="487">
+			<User Name="荆鹏" Id="10435" />
+			<User Name="唐学军" Id="10436" />
+		</Group>
+		<Group Name="峨眉监察股" Id="488">
+			<User Name="林文谦" Id="10437" />
+			<User Name="石玉" Id="10438" />
+			<User Name="何英" Id="10439" />
+			<User Name="熊文" Id="10440" />
+		</Group>
+		<Group Name="峨眉会计股" Id="489">
+			<User Name="徐春兰" Id="10441" />
+			<User Name="王翔" Id="10442" />
+		</Group>
+		<Group Name="峨眉评审中心" Id="490">
+			<User Name="胡玉华" Id="10443" />
+			<User Name="王开容" Id="10444" />
+			<User Name="张红林" Id="10445" />
+			<User Name="葛敏" Id="10446" />
+			<User Name="曾诚" Id="10447" />
+		</Group>
+		<Group Name="峨眉国资中心" Id="491">
+			<User Name="张宁一" Id="10448" />
+			<User Name="郑玉萍" Id="10449" />
+			<User Name="周明" Id="10450" />
+			<User Name="万欣" Id="10451" />
+			<User Name="曾瑜" Id="10452" />
+		</Group>
+		<Group Name="峨眉开源国资公司" Id="492">
+			<User Name="王朝阳" Id="10453" />
+			<User Name="李弢" Id="10454" />
+		</Group>
+		<Group Name="峨眉支付中心" Id="493">
+			<User Name="王贤勇" Id="10455" />
+			<User Name="王淑华" Id="10456" />
+			<User Name="帅勇" Id="10457" />
+			<User Name="赵海云" Id="10458" />
+			<User Name="易斌" Id="10459" />
+			<User Name="徐芬" Id="10460" />
+			<User Name="苟登榜" Id="10461" />
+			<User Name="陈进" Id="10462" />
+			<User Name="张淑芬" Id="10463" />
+			<User Name="吕琳" Id="10464" />
+			<User Name="赵敏" Id="10465" />
+			<User Name="童亚敏" Id="10466" />
+			<User Name="肖军" Id="10467" />
+			<User Name="刘雪婷" Id="10468" />
+			<User Name="蔡文彬" Id="10469" />
+			<User Name="刘晓桥" Id="10470" />
+			<User Name="孙小洁" Id="10471" />
+			<User Name="罗丽华" Id="10472" />
+			<User Name="江水" Id="10473" />
+			<User Name="吕晓彬" Id="10474" />
+			<User Name="熊君" Id="10475" />
+			<User Name="于婷" Id="10476" />
+			<User Name="朱琦" Id="10477" />
+			<User Name="钟涛" Id="10478" />
+		</Group>
+	</Group>
+	<Group Name="犍为县" Id="202">
+		<Group Name="犍为局领导" Id="494">
+			<User Name="祝长平" Id="10479" />
+			<User Name="张献忠" Id="10480" />
+			<User Name="易云帆" Id="10481" />
+			<User Name="吴敏" Id="10482" />
+			<User Name="赖文梅" Id="10483" />
+			<User Name="艾艳" Id="10484" />
+		</Group>
+		<Group Name="犍为办公室" Id="495">
+			<User Name="蔡昌松" Id="10485" />
+			<User Name="彭东" Id="10486" />
+			<User Name="彭会茹" Id="10487" />
+			<User Name="张晓旭" Id="10488" />
+			<User Name="李汶蓓" Id="10489" />
+			<User Name="袁伦富" Id="10490" />
+			<User Name="余桂华" Id="10491" />
+			<User Name="刘忠华" Id="10492" />
+			<User Name="宋登科" Id="10493" />
+			<User Name="周斌" Id="10494" />
+			<User Name="李杰" Id="10495" />
+			<User Name="杜永安" Id="10496" />
+		</Group>
+		<Group Name="犍为财政投资评审中心" Id="496">
+			<User Name="杨超" Id="10497" />
+			<User Name="杨生武" Id="10498" />
+			<User Name="曾军洁" Id="10499" />
+		</Group>
+		<Group Name="犍为经建股" Id="497">
+			<User Name="李珂" Id="10500" />
+			<User Name="江正春" Id="10501" />
+			<User Name="吕岱" Id="10502" />
+		</Group>
+		<Group Name="犍为资产经营公司" Id="498">
+			<User Name="王凌" Id="10503" />
+			<User Name="吴时敏" Id="10504" />
+			<User Name="郭萍" Id="10505" />
+			<User Name="周虹利" Id="10506" />
+			<User Name="蔡洪强" Id="10507" />
+		</Group>
+		<Group Name="犍为综合股" Id="499">
+			<User Name="万裕华" Id="10508" />
+			<User Name="詹建生" Id="10509" />
+			<User Name="吴昕彧" Id="10510" />
+		</Group>
+		<Group Name="犍为票管中心" Id="500">
+			<User Name="王洋锋" Id="10511" />
+			<User Name="张文君" Id="10512" />
+			<User Name="钟露露" Id="10513" />
+		</Group>
+		<Group Name="犍为国资办" Id="501">
+			<User Name="刘鹰" Id="10514" />
+			<User Name="屈登兰" Id="10515" />
+		</Group>
+		<Group Name="犍为农财股" Id="502">
+			<User Name="张道明" Id="10516" />
+			<User Name="钱引红" Id="10517" />
+			<User Name="彭科" Id="10518" />
+			<User Name="张婧" Id="10519" />
+			<User Name="程绍怀" Id="10520" />
+		</Group>
+		<Group Name="犍为社保股" Id="503">
+			<User Name="周妍" Id="10521" />
+			<User Name="刘雪" Id="10522" />
+			<User Name="车国玉" Id="10523" />
+		</Group>
+		<Group Name="犍为行财股" Id="504">
+			<User Name="李倩倩" Id="10524" />
+			<User Name="卿丽娜" Id="10525" />
+			<User Name="周云南" Id="10526" />
+		</Group>
+		<Group Name="犍为财监股" Id="505">
+			<User Name="艾瑶" Id="10527" />
+			<User Name="张开平" Id="10528" />
+			<User Name="欧为为" Id="10529" />
+		</Group>
+		<Group Name="犍为会计股" Id="506">
+			<User Name="左成霞" Id="10530" />
+			<User Name="赵璧" Id="10531" />
+			<User Name="范荣" Id="10532" />
+			<User Name="王玲" Id="10533" />
+		</Group>
+		<Group Name="犍为预算股" Id="507">
+			<User Name="邢毅" Id="10534" />
+			<User Name="朱容" Id="10535" />
+			<User Name="吴震" Id="10536" />
+		</Group>
+		<Group Name="犍为国库股" Id="508">
+			<User Name="吕国荣" Id="10537" />
+			<User Name="刘丽华" Id="10538" />
+			<User Name="王波" Id="10539" />
+		</Group>
+		<Group Name="犍为国库集中支付中心" Id="509">
+			<User Name="李玉" Id="10540" />
+			<User Name="汪瑜" Id="10541" />
+			<User Name="尹华秀" Id="10542" />
+			<User Name="罗锐" Id="10543" />
+			<User Name="杜岳" Id="10544" />
+			<User Name="高翔云" Id="10545" />
+			<User Name="张敏" Id="10546" />
+			<User Name="程素兰" Id="10547" />
+			<User Name="向军" Id="10548" />
+			<User Name="陈志勇" Id="10549" />
+			<User Name="万斌" Id="10550" />
+			<User Name="金钰" Id="10551" />
+			<User Name="胡丽莉" Id="10552" />
+			<User Name="陈晓芳" Id="10553" />
+			<User Name="刘蕾蕾" Id="10554" />
+			<User Name="杜高尚" Id="10555" />
+			<User Name="游志霞" Id="10556" />
+			<User Name="毛韵竹" Id="10557" />
+			<User Name="谢荣" Id="10558" />
+			<User Name="吴燕红" Id="10559" />
+			<User Name="陈瑛秀" Id="10560" />
+			<User Name="陈芳" Id="10561" />
+			<User Name="马咏忠" Id="10562" />
+			<User Name="彭远兰" Id="10563" />
+		</Group>
+	</Group>
+	<Group Name="井研县" Id="203">
+		<Group Name="井研局领导" Id="510">
+			<User Name="冯颜" Id="10564" />
+			<User Name="王钊" Id="10565" />
+			<User Name="刘双清" Id="10566" />
+			<User Name="龚小宽" Id="10567" />
+			<User Name="余波" Id="10568" />
+			<User Name="陈强" Id="10569" />
+			<User Name="王兴明" Id="10570" />
+			<User Name="杨立新" Id="10571" />
+		</Group>
+		<Group Name="井研办公室" Id="511">
+			<User Name="胡继东" Id="10572" />
+			<User Name="潘卫平" Id="10573" />
+			<User Name="许月英" Id="10574" />
+			<User Name="赵虹" Id="10575" />
+			<User Name="廖志刚" Id="10576" />
+		</Group>
+		<Group Name="井研预算股" Id="512">
+			<User Name="何明熹" Id="10577" />
+			<User Name="冯伟" Id="10578" />
+			<User Name="胡玉" Id="10579" />
+			<User Name="熊晓英" Id="10580" />
+		</Group>
+		<Group Name="井研综合股" Id="513">
+			<User Name="龚成" Id="10581" />
+			<User Name="陈静" Id="10582" />
+			<User Name="陈光华" Id="10583" />
+		</Group>
+		<Group Name="井研行政政法股" Id="514">
+			<User Name="杨登铭" Id="10584" />
+			<User Name="杨青" Id="10585" />
+		</Group>
+		<Group Name="井研企会股" Id="515">
+			<User Name="周红彦" Id="10586" />
+			<User Name="唐春华" Id="10587" />
+		</Group>
+		<Group Name="井研国资办" Id="516">
+			<User Name="左军" Id="10588" />
+			<User Name="许丽辉" Id="10589" />
+			<User Name="曾敏" Id="10590" />
+		</Group>
+		<Group Name="井研社保股" Id="517">
+			<User Name="罗昌明" Id="10591" />
+			<User Name="熊艳丽" Id="10592" />
+			<User Name="林秋秀" Id="10593" />
+		</Group>
+		<Group Name="井研农财股" Id="518">
+			<User Name="熊勤建" Id="10594" />
+			<User Name="万全中" Id="10595" />
+			<User Name="彭俭榕" Id="10596" />
+		</Group>
+		<Group Name="井研国库股" Id="519">
+			<User Name="吴凌" Id="10597" />
+			<User Name="王刚" Id="10598" />
+			<User Name="丁丽红" Id="10599" />
+		</Group>
+		<Group Name="井研财监股" Id="520">
+			<User Name="廖俊新" Id="10600" />
+			<User Name="徐献华" Id="10601" />
+			<User Name="袁顺江" Id="10602" />
+		</Group>
+		<Group Name="井研教科文股" Id="521">
+			<User Name="张敏" Id="10603" />
+			<User Name="王俊" Id="10604" />
+			<User Name="刘晓英" Id="10605" />
+		</Group>
+		<Group Name="井研国库支付中心" Id="522">
+			<User Name="夏军" Id="10606" />
+			<User Name="方霞" Id="10607" />
+			<User Name="梁群仙" Id="10608" />
+			<User Name="刘玉芳" Id="10609" />
+			<User Name="卫晓燕" Id="10610" />
+			<User Name="方彦" Id="10611" />
+			<User Name="龚莉" Id="10612" />
+			<User Name="金涛" Id="10613" />
+			<User Name="余彬" Id="10614" />
+		</Group>
+		<Group Name="井研投资股" Id="590">
+			<User Name="李庆华" Id="10615" />
+			<User Name="雷震" Id="10616" />
+			<User Name="魏星" Id="10617" />
+		</Group>
+	</Group>
+	<Group Name="夹江县" Id="204">
+		<Group Name="夹江局领导" Id="523">
+			<User Name="曾国祥" Id="11027" />
+			<User Name="李中有" Id="11028" />
+			<User Name="罗维" Id="11029" />
+			<User Name="薛冰" Id="11030" />
+			<User Name="刘亚" Id="11031" />
+			<User Name="冯翔" Id="11032" />
+		</Group>
+		<Group Name="夹江办公室" Id="524">
+			<User Name="胡强" Id="11033" />
+			<User Name="伍平" Id="11034" />
+			<User Name="余海燕" Id="11035" />
+			<User Name="宿光全" Id="11036" />
+			<User Name="邓天文" Id="11037" />
+			<User Name="周淑玉" Id="11038" />
+			<User Name="杨志翔" Id="11039" />
+			<User Name="雷应洪" Id="11040" />
+			<User Name="任怀信" Id="11041" />
+			<User Name="杨树生" Id="11042" />
+			<User Name="艾然" Id="11043" />
+			<User Name="李建" Id="11044" />
+		</Group>
+		<Group Name="夹江预算股" Id="525">
+			<User Name="张校平" Id="11045" />
+			<User Name="谭建强" Id="11046" />
+			<User Name="辜红群" Id="11047" />
+			<User Name="徐伟" Id="11048" />
+		</Group>
+		<Group Name="夹江国库股" Id="526">
+			<User Name="唐蜀平" Id="11049" />
+			<User Name="刘玉镜" Id="11050" />
+			<User Name="李宏" Id="11051" />
+			<User Name="黄晓蓉" Id="11052" />
+			<User Name="谢江" Id="11053" />
+		</Group>
+		<Group Name="夹江农业股" Id="527">
+			<User Name="李艳梅" Id="11054" />
+			<User Name="曾毅" Id="11055" />
+			<User Name="韩丽琴" Id="11056" />
+		</Group>
+		<Group Name="夹江会计股" Id="528">
+			<User Name="余淑彬" Id="11057" />
+			<User Name="王淑萍" Id="11058" />
+		</Group>
+		<Group Name="夹江综合股" Id="529">
+			<User Name="钟建军" Id="11059" />
+			<User Name="刘潜" Id="11060" />
+		</Group>
+		<Group Name="夹江农发办" Id="530">
+			<User Name="李咏" Id="11061" />
+			<User Name="李岷" Id="11062" />
+		</Group>
+		<Group Name="夹江行政政法股" Id="531">
+			<User Name="胡萍容" Id="11063" />
+			<User Name="王利红" Id="11064" />
+			<User Name="肖丽萍" Id="11065" />
+		</Group>
+		<Group Name="夹江教科文股" Id="532">
+			<User Name="余晓英" Id="11066" />
+			<User Name="陈媛" Id="11067" />
+			<User Name="高勇" Id="11068" />
+		</Group>
+		<Group Name="夹江经济建设股" Id="533">
+			<User Name="周震江" Id="11069" />
+			<User Name="王慧" Id="11070" />
+			<User Name="王晓梅" Id="11071" />
+			<User Name="李慧" Id="11072" />
+		</Group>
+		<Group Name="夹江社保股" Id="534">
+			<User Name="汪克" Id="11073" />
+			<User Name="代芳" Id="11074" />
+			<User Name="周方强" Id="11075" />
+			<User Name="丁红" Id="11076" />
+		</Group>
+		<Group Name="夹江监察股（监督监察局）" Id="535">
+			<User Name="陈巧巧" Id="11077" />
+			<User Name="向国建" Id="11078" />
+			<User Name="詹庆瑛" Id="11079" />
+			<User Name="伍星" Id="11080" />
+		</Group>
+		<Group Name="夹江国资管理股" Id="536">
+			<User Name="张建军" Id="11081" />
+			<User Name="李红梅" Id="11082" />
+		</Group>
+		<Group Name="夹江综改办" Id="537">
+			<User Name="许建康" Id="11083" />
+			<User Name="雷联东" Id="11084" />
+			<User Name="干建芳" Id="11085" />
+		</Group>
+		<Group Name="夹江投资股" Id="538">
+			<User Name="王东" Id="11086" />
+			<User Name="周丽萍" Id="11087" />
+			<User Name="刘利芹" Id="11088" />
+		</Group>
+		<Group Name="夹江政府采购监督管理股" Id="539">
+			<User Name="盖煦" Id="11089" />
+		</Group>
+		<Group Name="夹江财政投资评审中心" Id="540">
+			<User Name="张健" Id="11090" />
+			<User Name="张萍" Id="11091" />
+			<User Name="刘继英" Id="11092" />
+			<User Name="徐成" Id="11093" />
+			<User Name="王林" Id="11094" />
+			<User Name="李婉容" Id="11095" />
+			<User Name="唐有第" Id="11096" />
+			<User Name="江永浩" Id="11097" />
+			<User Name="王建荣" Id="11098" />
+			<User Name="谢丹" Id="11099" />
+			<User Name="李晚亭" Id="11100" />
+			<User Name="王世万" Id="11101" />
+		</Group>
+		<Group Name="夹江国库支付中心" Id="541">
+			<User Name="陈刚" Id="11102" />
+			<User Name="杨艳" Id="11103" />
+			<User Name="朱洁" Id="11104" />
+			<User Name="张旭萍" Id="11105" />
+			<User Name="冯冲" Id="11106" />
+		</Group>
+		<Group Name="夹江票据管理中心" Id="542">
+			<User Name="李叔连" Id="11107" />
+			<User Name="李芳" Id="11108" />
+		</Group>
+		<Group Name="夹江益鑫国资经营公司" Id="543">
+			<User Name="周加利" Id="11109" />
+			<User Name="李红" Id="11110" />
+			<User Name="周杰" Id="11111" />
+			<User Name="刘承彦" Id="11112" />
+		</Group>
+	</Group>
+	<Group Name="沐川县" Id="205">
+		<Group Name="沐川局领导" Id="544">
+			<User Name="彭波" Id="10704" />
+			<User Name="胡敬凯" Id="10705" />
+			<User Name="朱月堂" Id="10706" />
+			<User Name="陈景华" Id="10707" />
+			<User Name="严明彦" Id="10708" />
+			<User Name="张云友" Id="10709" />
+			<User Name="宋瑜" Id="10710" />
+			<User Name="姚启全" Id="10711" />
+		</Group>
+		<Group Name="沐川办公室" Id="545">
+			<User Name="黄林" Id="10712" />
+			<User Name="艾兴桃" Id="10713" />
+			<User Name="张阳" Id="10714" />
+		</Group>
+		<Group Name="沐川财监局" Id="546">
+			<User Name="邱荣富" Id="10715" />
+			<User Name="谢泉" Id="10716" />
+		</Group>
+		<Group Name="沐川财税法规会计股" Id="547">
+			<User Name="刘萍" Id="10717" />
+		</Group>
+		<Group Name="沐川非税股" Id="548">
+			<User Name="张乾山" Id="10718" />
+		</Group>
+		<Group Name="沐川国库股" Id="549">
+			<User Name="曾讯" Id="10719" />
+			<User Name="钟建根" Id="10720" />
+			<User Name="冷燕" Id="10721" />
+		</Group>
+		<Group Name="沐川国资办" Id="550">
+			<User Name="王瑶" Id="10722" />
+			<User Name="许克荣" Id="10723" />
+		</Group>
+		<Group Name="沐川教科文股" Id="551">
+			<User Name="王文川" Id="10724" />
+			<User Name="张艺于" Id="10725" />
+		</Group>
+		<Group Name="沐川经建股" Id="552">
+			<User Name="刘朝志" Id="10726" />
+			<User Name="张延丽" Id="10727" />
+		</Group>
+		<Group Name="沐川农财股" Id="553">
+			<User Name="兰明琪" Id="10728" />
+			<User Name="熊畔" Id="10729" />
+		</Group>
+		<Group Name="沐川评审中心" Id="554">
+			<User Name="陈莎莎" Id="10730" />
+		</Group>
+		<Group Name="沐川社保股" Id="555">
+			<User Name="钟晓莉" Id="10731" />
+			<User Name="宁显正" Id="10732" />
+		</Group>
+		<Group Name="沐川行政政法股" Id="556">
+			<User Name="万雪梅" Id="10733" />
+		</Group>
+		<Group Name="沐川预算股" Id="557">
+			<User Name="路慧" Id="10734" />
+			<User Name="王富贵" Id="10735" />
+			<User Name="陈孝通" Id="10736" />
+		</Group>
+		<Group Name="沐川政府采购监管股" Id="558">
+			<User Name="彭曦" Id="10737" />
+		</Group>
+		<Group Name="沐川支付中心" Id="559">
+			<User Name="龙庭凤" Id="10738" />
+			<User Name="李国凤" Id="10739" />
+			<User Name="罗萍" Id="10740" />
+			<User Name="汤晓萍" Id="10741" />
+		</Group>
+	</Group>
+	<Group Name="峨边县" Id="206">
+		<Group Name="峨边局领导" Id="560">
+			<User Name="杜宣红" Id="10742" />
+			<User Name="沙玛长布" Id="10743" />
+			<User Name="刘雪虹" Id="10744" />
+			<User Name="李中林" Id="10745" />
+			<User Name="查述明" Id="10746" />
+			<User Name="姜晓艺" Id="10747" />
+		</Group>
+		<Group Name="峨边办公室" Id="561">
+			<User Name="傅华君" Id="10748" />
+			<User Name="邱小龙" Id="10749" />
+			<User Name="马勤" Id="10750" />
+			<User Name="张秀金" Id="10751" />
+		</Group>
+		<Group Name="峨边财监股" Id="562">
+			<User Name="邹岷" Id="10752" />
+			<User Name="龚长虹" Id="10753" />
+			<User Name="邓秀群" Id="10754" />
+		</Group>
+		<Group Name="峨边预算股" Id="563">
+			<User Name="李进" Id="10755" />
+			<User Name="沙蓉" Id="10756" />
+			<User Name="张玉英" Id="10757" />
+		</Group>
+		<Group Name="峨边国库股" Id="564">
+			<User Name="刘艳" Id="10758" />
+			<User Name="童志平" Id="10759" />
+			<User Name="陈晓燕" Id="10760" />
+		</Group>
+		<Group Name="峨边综合企会股" Id="565">
+			<User Name="盛晓东" Id="10761" />
+			<User Name="靳建龙" Id="10762" />
+		</Group>
+		<Group Name="峨边行财股" Id="566">
+			<User Name="黄茜" Id="10763" />
+			<User Name="鲁克拉古" Id="10764" />
+			<User Name="刘洪霞" Id="10765" />
+		</Group>
+		<Group Name="峨边社保股" Id="567">
+			<User Name="殷登成" Id="10766" />
+			<User Name="杜晓梅" Id="10767" />
+		</Group>
+		<Group Name="峨边农财股" Id="568">
+			<User Name="陈开华" Id="10768" />
+			<User Name="赵苗" Id="10769" />
+			<User Name="易敏学" Id="10770" />
+		</Group>
+		<Group Name="峨边国库支付中心" Id="569">
+			<User Name="朱亚瀚" Id="10771" />
+			<User Name="朱爱莲" Id="10772" />
+			<User Name="帅友琼" Id="10773" />
+			<User Name="王松" Id="10774" />
+		</Group>
+		<Group Name="峨边国资办" Id="570">
+			<User Name="廖国忠" Id="10775" />
+		</Group>
+	</Group>
+	<Group Name="马边县" Id="207">
+		<Group Name="马边局领导" Id="571">
+			<User Name="饶刚" Id="10776" />
+			<User Name="余元科" Id="10777" />
+			<User Name="徐锋" Id="10778" />
+			<User Name="罗军" Id="10779" />
+			<User Name="唐中彤" Id="10780" />
+		</Group>
+		<Group Name="马边办公室" Id="572">
+			<User Name="韩黎" Id="10781" />
+			<User Name="蒋友林" Id="10782" />
+			<User Name="杨清" Id="10783" />
+			<User Name="杨静" Id="10784" />
+		</Group>
+		<Group Name="马边预算股" Id="573">
+			<User Name="袁振" Id="10785" />
+			<User Name="梁明春" Id="10786" />
+			<User Name="王霞" Id="10787" />
+			<User Name="苟素成" Id="10788" />
+		</Group>
+		<Group Name="马边国库股" Id="574">
+			<User Name="黄敏" Id="10789" />
+			<User Name="苟静梅" Id="10790" />
+			<User Name="谢敏" Id="10791" />
+			<User Name="唐继阆" Id="10792" />
+		</Group>
+		<Group Name="马边行财股" Id="575">
+			<User Name="白洁" Id="10793" />
+			<User Name="罗华英" Id="10794" />
+			<User Name="陈启友" Id="10795" />
+			<User Name="吴利强" Id="10796" />
+		</Group>
+		<Group Name="马边农财股" Id="576">
+			<User Name="白英平" Id="10797" />
+			<User Name="罗志宏" Id="10798" />
+			<User Name="徐冉" Id="10799" />
+		</Group>
+		<Group Name="马边国资办" Id="577">
+			<User Name="史咏明" Id="10800" />
+			<User Name="曲别阿布" Id="10801" />
+			<User Name="张晓宇" Id="10802" />
+			<User Name="卢宏亮" Id="10803" />
+		</Group>
+		<Group Name="马边财监股" Id="578">
+			<User Name="张杨敏" Id="10804" />
+		</Group>
+		<Group Name="马边经济建设股" Id="579">
+			<User Name="吴瑜" Id="10805" />
+			<User Name="刘松" Id="10806" />
+			<User Name="何凯" Id="10807" />
+			<User Name="黄翼" Id="10808" />
+		</Group>
+		<Group Name="马边社保股" Id="580">
+			<User Name="吴瑜" Id="10805" />
+			<User Name="刘松" Id="10806" />
+			<User Name="何凯" Id="10807" />
+			<User Name="黄翼" Id="10808" />
+			<User Name="李英" Id="10809" />
+			<User Name="董剑" Id="10810" />
+		</Group>
+		<Group Name="马边国库支付中心" Id="581">
+			<User Name="李英" Id="10809" />
+			<User Name="董剑" Id="10810" />
+			<User Name="汪学全" Id="10811" />
+			<User Name="钟长友" Id="10812" />
+			<User Name="粟琴" Id="10813" />
+			<User Name="田英" Id="10814" />
+			<User Name="蒋燕" Id="10815" />
+			<User Name="耍子毛加" Id="10816" />
+			<User Name="张学辉" Id="10817" />
+		</Group>
+	</Group>
+	<Group Name="高新区" Id="208">
+		<User Name="曾晓川" Id="10186" />
+		<User Name="葛忠伟" Id="10187" />
+	</Group>
+</View>
+<View Name="市级部门" Id="83">
+	<Group Name="行政政法科归口" Id="209">
+		<Group Name="纪委" Id="217">
+			<User Name="市纪委谢玲" Id="10818" />
+		</Group>
+		<Group Name="市委办公室" Id="218">
+			<User Name="市委办周翔" Id="10819" />
+			<User Name="保密办吴劲松" Id="10820" />
+			<User Name="接待办林志强" Id="10821" />
+			<User Name="防邪办杨燕" Id="10822" />
+		</Group>
+		<Group Name="组织部" Id="219">
+			<User Name="老干局杨旭东" Id="10823" />
+			<User Name="活动馆向健" Id="10824" />
+			<User Name="干休所杨旭东" Id="10825" />
+		</Group>
+		<Group Name="宣传部" Id="220">
+			<User Name="宣传部陈永玲" Id="10826" />
+			<User Name="讲师团向陈" Id="10827" />
+			<User Name="乐山日报邓刚" Id="10828" />
+		</Group>
+		<Group Name="统战部" Id="221">
+			<User Name="统战部李秀平" Id="10829" />
+			<User Name="工商联廖杨" Id="10830" />
+			<User Name="民主党派陈胜" Id="10831" />
+		</Group>
+		<Group Name="政法委" Id="222">
+			<User Name="政法委余静" Id="10832" />
+		</Group>
+		<Group Name="政研室" Id="223">
+			<User Name="政研室杨群" Id="10833" />
+		</Group>
+		<Group Name="机关工委" Id="224">
+			<User Name="机关工委周鑫" Id="10834" />
+		</Group>
+		<Group Name="群众工作局" Id="225">
+			<User Name="信访局谭俊" Id="10835" />
+		</Group>
+		<Group Name="编办" Id="226">
+			<User Name="市编办付乐加" Id="10836" />
+		</Group>
+		<Group Name="市人大办公室" Id="227">
+			<User Name="市人大黄瑾" Id="10837" />
+		</Group>
+		<Group Name="市政府办公室" Id="228">
+			<User Name="政府办王咏梅" Id="10838" />
+			<User Name="法制办刘斌" Id="10839" />
+			<User Name="仲裁委李金玉" Id="10840" />
+			<User Name="宗教局段春梅" Id="10841" />
+			<User Name="信息中心申翠蓉" Id="10842" />
+			<User Name="驻蓉办廖学梅" Id="10843" />
+			<User Name="驻京办郑文祥" Id="10844" />
+		</Group>
+		<Group Name="审计局" Id="230">
+			<User Name="审计局衡兵" Id="10845" />
+		</Group>
+		<Group Name="统计局" Id="231">
+			<User Name="统计局刘杨梅" Id="10846" />
+			<User Name="调查队宋敏" Id="10847" />
+		</Group>
+		<Group Name="旅游局" Id="232">
+			<User Name="旅游局李洪" Id="10848" />
+			<User Name="旅游监察大队杨乾坤" Id="10849" />
+		</Group>
+		<Group Name="民委" Id="233">
+			<User Name="市民委陈璐" Id="10850" />
+		</Group>
+		<Group Name="国资委" Id="234">
+			<User Name="国资委杨春华" Id="10851" />
+		</Group>
+		<Group Name="台办" Id="235">
+			<User Name="市台办车亚萍" Id="10852" />
+		</Group>
+		<Group Name="政务服务中心" Id="236" />
+		<Group Name="团委" Id="237">
+			<User Name="团市委李希瑶" Id="10853" />
+		</Group>
+		<Group Name="妇联" Id="238">
+			<User Name="市妇联李红英" Id="10854" />
+		</Group>
+		<Group Name="市政协办公室" Id="239">
+			<User Name="市政协王晓阳" Id="10855" />
+		</Group>
+		<Group Name="检察院" Id="241">
+			<User Name="市检察院胡馨月" Id="10860" />
+		</Group>
+		<Group Name="法院" Id="242">
+			<User Name="市法院崔效芬" Id="10861" />
+		</Group>
+		<Group Name="司法局" Id="243">
+			<User Name="司法局小兰" Id="10862" />
+		</Group>
+		<Group Name="公安局" Id="289">
+			<User Name="公安局赵沁" Id="10856" />
+			<User Name="交警支队曾荣" Id="10857" />
+			<User Name="区公安分局车老师" Id="10858" />
+			<User Name="公安信息中心蔡世英" Id="10859" />
+		</Group>
+		<Group Name="消防支队" Id="371" />
+		<Group Name="武警支队" Id="372" />
+	</Group>
+	<Group Name="教科文科归口" Id="210">
+		<Group Name="人防机关" Id="245">
+			<User Name="人防办周勇" Id="10898" />
+		</Group>
+		<Group Name="教育局" Id="246">
+			<User Name="教育局杨兴东" Id="10863" />
+			<User Name="招办陈仪迦" Id="10864" />
+			<User Name="教科所王薇" Id="10865" />
+			<User Name="教育基金会范惠文" Id="10866" />
+			<User Name="教育者编辑部董茂燕" Id="10867" />
+			<User Name="教学仪器站叶枫" Id="10868" />
+			<User Name="少年宫张媛" Id="10869" />
+			<User Name="电大易友谊" Id="10870" />
+			<User Name="乐山一中罗江梅" Id="10871" />
+			<User Name="乐山二中陈永梅" Id="10872" />
+			<User Name="草堂高中龙彬" Id="10873" />
+			<User Name="实验中学汪波" Id="10874" />
+			<User Name="一职中杨冰" Id="10875" />
+			<User Name="乐师附小赵恒波" Id="10876" />
+			<User Name="实验小学易华" Id="10877" />
+			<User Name="特校万文琼" Id="10878" />
+			<User Name="实验幼儿园左俊桃" Id="10879" />
+			<User Name="延风中学李凌昕" Id="10880" />
+			<User Name="延风小学江亚静" Id="10881" />
+			<User Name="机关幼儿园敖昌林" Id="10882" />
+			<User Name="奥校刘春" Id="10883" />
+		</Group>
+		<Group Name="市委党校" Id="247">
+			<User Name="党校廖学军" Id="10884" />
+		</Group>
+		<Group Name="乐山职业技术学院" Id="248">
+			<User Name="高职院李晏" Id="10885" />
+		</Group>
+		<Group Name="科技局" Id="249">
+			<User Name="科技局梅媚" Id="10886" />
+			<User Name="生产力促进中心代晓莲" Id="10887" />
+			<User Name="科技培训中心杨伟荣" Id="10888" />
+			<User Name="科技情报所卢建乐" Id="10889" />
+			<User Name="科技顾问团梅媚" Id="10890" />
+			<User Name="知识产权局王霞" Id="10891" />
+			<User Name="社科联雷莉" Id="10892" />
+			<User Name="党史研究室罗润萍" Id="10893" />
+			<User Name="地志办杨家龙" Id="10894" />
+		</Group>
+		<Group Name="科协" Id="250">
+			<User Name="科协杨珂" Id="10895" />
+		</Group>
+		<Group Name="文联" Id="251">
+			<User Name="文联石宪" Id="10899" />
+		</Group>
+		<Group Name="体育局" Id="252">
+			<User Name="体育局程丽霞" Id="10896" />
+			<User Name="体育中心宗燕" Id="10897" />
+		</Group>
+		<Group Name="文广新局" Id="253">
+			<User Name="文广新局肖华" Id="10900" />
+			<User Name="文化馆王伟" Id="10901" />
+			<User Name="文艺研究所古莉" Id="10902" />
+			<User Name="图书馆沈雪梅" Id="10903" />
+			<User Name="文化执法支队谢晋芳" Id="10904" />
+			<User Name="文物研究所吴霞" Id="10905" />
+			<User Name="乐山电台杨万" Id="10906" />
+			<User Name="京剧团赵保德" Id="10907" />
+			<User Name="川剧团李华玲" Id="10908" />
+			<User Name="歌舞团杨正琼" Id="10909" />
+		</Group>
+		<Group Name="计生委" Id="254">
+			<User Name="计生委李雨" Id="10910" />
+			<User Name="计生指导所李李" Id="10911" />
+			<User Name="计生药品站张燕" Id="10912" />
+			<User Name="计生协会李雨" Id="10913" />
+		</Group>
+		<Group Name="档案局" Id="255">
+			<User Name="档案局钟银全" Id="10914" />
+		</Group>
+		<Group Name="防震减灾局" Id="256">
+			<User Name="防震减灾局苟兴勤" Id="10915" />
+		</Group>
+		<Group Name="宣传部" Id="373" />
+		<Group Name="乐山师院" Id="380">
+			<User Name="乐山师院向友文" Id="11022" />
+		</Group>
+	</Group>
+	<Group Name="农业科归口" Id="211">
+		<Group Name="农业局" Id="258">
+			<User Name="农业局王雪梅" Id="10916" />
+			<User Name="农能办郑康" Id="10917" />
+			<User Name="农机监理所刘玉梅" Id="10918" />
+			<User Name="农机化干校程雪梅" Id="10919" />
+			<User Name="农科院何莲" Id="10920" />
+		</Group>
+		<Group Name="林业局" Id="259">
+			<User Name="林业局赵利君" Id="10921" />
+			<User Name="林业局曾晓东" Id="10922" />
+			<User Name="林苗场徐文静" Id="10923" />
+			<User Name="林业公安李庆生" Id="10924" />
+			<User Name="紫胶站刘丽萍" Id="10925" />
+			<User Name="林科所古晓丽" Id="10926" />
+		</Group>
+		<Group Name="水务局" Id="260">
+			<User Name="水务局冯淑芬" Id="10927" />
+			<User Name="青管局杨晓林" Id="10928" />
+		</Group>
+		<Group Name="畜牧局" Id="261">
+			<User Name="畜牧局刘旭东" Id="10929" />
+			<User Name="动物卫生监督所刘旭东" Id="10930" />
+		</Group>
+		<Group Name="气象局" Id="262">
+			<User Name="气象局宋关岭" Id="10931" />
+		</Group>
+		<Group Name="扶贫移民局" Id="263">
+			<User Name="扶贫移民局晁三星" Id="10932" />
+		</Group>
+		<Group Name="农工委" Id="264">
+			<User Name="农工办吴冬梅" Id="10933" />
+		</Group>
+	</Group>
+	<Group Name="社保科归口" Id="212">
+		<Group Name="人力资源社会保障局" Id="266">
+			<User Name="人社局宋瑛" Id="10934" />
+			<User Name="人才中心王晓燕" Id="10935" />
+			<User Name="军转中心李夏" Id="10936" />
+			<User Name="社保局武舫" Id="10937" />
+			<User Name="就业局肖燕" Id="10938" />
+			<User Name="人社信息中心杨赟" Id="10939" />
+			<User Name="医保局黄老师" Id="10940" />
+		</Group>
+		<Group Name="民政局" Id="267">
+			<User Name="民政局杨艳" Id="10941" />
+			<User Name="老龄委小钟" Id="10942" />
+			<User Name="福利院小徐" Id="10943" />
+			<User Name="救助站彭丽萍" Id="10944" />
+			<User Name="殡仪馆祝群华" Id="10945" />
+			<User Name="精神病院夏静琪" Id="10946" />
+			<User Name="救灾物资管理中心黄勇" Id="10947" />
+			<User Name="慈善总会舒爽" Id="10948" />
+			<User Name="一军干所黄韵" Id="10949" />
+			<User Name="二军干所张晓燕" Id="10950" />
+		</Group>
+		<Group Name="残联" Id="268">
+			<User Name="残联段仓红" Id="10951" />
+			<User Name="残疾人康复中心刘燕" Id="10952" />
+		</Group>
+		<Group Name="卫生局" Id="269">
+			<User Name="卫生局邱平" Id="10953" />
+			<User Name="疾控中心叶敏" Id="10954" />
+			<User Name="卫生执法支队蒋奇" Id="10955" />
+			<User Name="血站王斌" Id="10956" />
+			<User Name="妇幼保健院王涛" Id="10957" />
+			<User Name="精神卫生中心徐桂荣" Id="10958" />
+			<User Name="卫生应急救援指挥中心邱萍" Id="10959" />
+			<User Name="市医院张佩华" Id="10960" />
+			<User Name="中医院王雅梅" Id="10961" />
+			<User Name="口防所杨船" Id="10962" />
+			<User Name="四医院黄" Id="10963" />
+		</Group>
+		<Group Name="食品药品监管局" Id="270">
+			<User Name="药监局刘丽" Id="10964" />
+			<User Name="药检所赵冬梅" Id="10965" />
+			<User Name="食品稽查支队刘莉" Id="10966" />
+		</Group>
+		<Group Name="市总公会" Id="661">
+			<User Name="总工会杨熙" Id="11023" />
+		</Group>
+	</Group>
+	<Group Name="经济建设科归口" Id="213">
+		<Group Name="交委" Id="272">
+			<User Name="交委秦怀丰" Id="10967" />
+			<User Name="路政支队姚佳妮" Id="10968" />
+			<User Name="运管处杨澍" Id="10969" />
+			<User Name="公路局伍红梅" Id="10970" />
+			<User Name="收费处孙艳梅" Id="10971" />
+			<User Name="海事局田薇" Id="10972" />
+			<User Name="交通监督站吴红" Id="10973" />
+			<User Name="交通指挥中心徐柯" Id="10974" />
+			<User Name="航道队李宏民" Id="10975" />
+			<User Name="公路直属段尹雪梅" Id="10976" />
+			<User Name="渡口管理所伍红梅" Id="10977" />
+		</Group>
+		<Group Name="经信委" Id="273">
+			<User Name="经信委杨静" Id="10978" />
+			<User Name="无线电监测站涂爱梅" Id="10979" />
+		</Group>
+		<Group Name="环保局" Id="274">
+			<User Name="环保局张家荣" Id="10980" />
+			<User Name="环监支队陈斌" Id="10981" />
+			<User Name="环监站韩艳林" Id="10982" />
+			<User Name="辐射环监站陈斌" Id="10983" />
+		</Group>
+		<Group Name="安监局" Id="275">
+			<User Name="安监支队古晓红" Id="10984" />
+			<User Name="矿山救护队李胜难" Id="10985" />
+		</Group>
+		<Group Name="粮食局" Id="276">
+			<User Name="粮食局朱博" Id="10986" />
+			<User Name="市中区粮食分局许萍" Id="10987" />
+			<User Name="军粮供应中心粱琴" Id="10988" />
+			<User Name="粮油食品监测站秦月林" Id="10989" />
+		</Group>
+		<Group Name="供销社" Id="277">
+			<User Name="供销社徐艳琴" Id="10990" />
+		</Group>
+		<Group Name="峨眉半导体研究所" Id="394">
+			<User Name="峨半所尹灵" Id="11024" />
+		</Group>
+		<Group Name="质监局" Id="719" />
+		<Group Name="工商局" Id="720" />
+	</Group>
+	<Group Name="金融科归口" Id="214">
+		<Group Name="投资促进局" Id="279">
+			<User Name="投促局小杨" Id="10994" />
+		</Group>
+		<Group Name="外侨办" Id="280">
+			<User Name="外侨办小彭" Id="10991" />
+		</Group>
+		<Group Name="商务局" Id="281">
+			<User Name="商务局刘易" Id="10992" />
+			<User Name="投促委员会小杨" Id="10993" />
+		</Group>
+	</Group>
+	<Group Name="投资科归口" Id="215">
+		<Group Name="国土局" Id="283">
+			<User Name="国土局王岚" Id="10995" />
+			<User Name="国土监察支代艺佳" Id="10996" />
+			<User Name="土储中心韩燕" Id="10997" />
+			<User Name="土地管理所江晓波" Id="10998" />
+			<User Name="地政地籍事务所申静" Id="10999" />
+			<User Name="市中区国土分局戴艽汝" Id="11000" />
+			<User Name="土地整理中心陈剑" Id="11001" />
+			<User Name="地质环监站罗群" Id="11002" />
+		</Group>
+		<Group Name="住建局" Id="284">
+			<User Name="住建局陈华" Id="11003" />
+			<User Name="园林局杨学才" Id="11004" />
+			<User Name="房管局张庆莉" Id="11005" />
+			<User Name="房交所邓典桂" Id="11006" />
+			<User Name="城建馆王艳" Id="11007" />
+			<User Name="造价站汪红丽" Id="11008" />
+			<User Name="白蚁所胡秀军" Id="11009" />
+			<User Name="质监站肖卉瑛" Id="11010" />
+			<User Name="招投标办黄敏" Id="11011" />
+			<User Name="散水办宋艾家" Id="11012" />
+			<User Name="市中区规建局游秀群" Id="11013" />
+			<User Name="建设监察支队罗晋" Id="11014" />
+		</Group>
+		<Group Name="城管局" Id="285">
+			<User Name="城管局刘岚" Id="11015" />
+			<User Name="环卫局黄志梅" Id="11016" />
+			<User Name="广场管理处魏海英" Id="11017" />
+			<User Name="市容环卫局张家荣" Id="11018" />
+		</Group>
+		<Group Name="发改委" Id="286">
+			<User Name="发改委张戎" Id="11019" />
+			<User Name="物价分局马银辉" Id="11020" />
+			<User Name="价格认证中心石鹏飞" Id="11021" />
+		</Group>
+	</Group>
+	<Group Name="预算科归口" Id="216">
+		<Group Name="民委" Id="402" />
+		<Group Name="军分区" Id="405" />
+		<Group Name="预备役旅" Id="406" />
+	</Group>
+	<Group Name="财源办归口" Id="412">
+		<Group Name="国税局" Id="403" />
+		<Group Name="地税局" Id="404" />
+	</Group>
+	<Group Name="综合科归口" Id="584">
+		<Group Name="峨眉山-乐山大佛景区管委会" Id="290">
+			<User Name="景区管委会郑静" Id="11025" />
+		</Group>
+	</Group>
+</View>
+</ORG>
